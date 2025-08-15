@@ -373,14 +373,6 @@ aztec-up 1.2.0
 <img width="2140" height="825" alt="image" src="https://github.com/user-attachments/assets/d75fcff8-35e7-4249-87be-e6772ba25fa0" />
 
 
-
-
-
-
-👉 Join TG for more Updates: https://telegram.me/cryptogg
-
-If U have any issue then open a issue on this repo or Dm me on TG~
-
 Thank U! 👨🏻‍💻
 
 Happy Coding💗
